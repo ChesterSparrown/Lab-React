@@ -6,6 +6,8 @@ const Listas = () => {
     { id: 1, nombre: "SwordArtOnline", imagen: 'kirito.png'},
     { id: 2, nombre: "NarutoShippuden", imagen: 'naruto.png'},
     { id: 3, nombre: "LosCaballerosD", imagen: 'shaga.png'},
+    { id: 4, nombre: "Arcane", imagen: 'arcane.png'},
+    
   ];
    
   const [total, setTotal] = useState(0);
